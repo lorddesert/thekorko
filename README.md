@@ -1,4 +1,4 @@
-# Hiello, I'm The Korko (💻)
+# Hello, I'm Guillermo Schumacher (Korko💻)
 
 ### FullStack Web Developer
 
