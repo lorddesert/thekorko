@@ -14,13 +14,13 @@
 
 [![Backend](https://skillicons.dev/icons?i=linux,nginx,mysql,php,cloudflare)](https://skillicons.dev)
 
-### I enjoy using these tools:
-
-[![Tools](https://skillicons.dev/icons?i=vscode,atom,wordpress,bash,powershell,git)](https://skillicons.dev)
-
 ### As a Frontend dev I am used to work with:
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ps,figma)](https://skillicons.dev)
+
+### I enjoy using these tools:
+
+[![Tools](https://skillicons.dev/icons?i=vscode,atom,wordpress,bash,powershell,git)](https://skillicons.dev)
 
 ### ¿What would I like to learn more?
 
