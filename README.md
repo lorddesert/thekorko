@@ -12,7 +12,7 @@
 
 ### Expertise using LAMP Stack:
 
-[![Backend](https://skillicons.dev/icons?i=linux,apache,mysql,php,cloudflare)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=linux,nginx,mysql,php,cloudflare)](https://skillicons.dev)
 
 ### I enjoy using these tools:
 
@@ -24,11 +24,11 @@
 
 ### ¿What would I like to learn more?
 
-[![Learn](https://skillicons.dev/icons?i=heroku,js,py,nginx,nodejs,react,sqlite,selenium,godot,unity,ipfs)](https://skillicons.dev)
+[![Learn](https://skillicons.dev/icons?i=heroku,js,py,selenium,nodejs,react,sqlite,godot,unity,ipfs)](https://skillicons.dev)
 
 ### ¿What websites I usually check out?
 
 [![Knowledge](https://skillicons.dev/icons?i=stackoverflow,twitter,github,linkedin,devto)](https://skillicons.dev)
 
 ### ¿What websites I usually check out?
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=thekorko)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=thekorko)
