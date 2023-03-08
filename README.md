@@ -30,5 +30,5 @@
 
 [![Knowledge](https://skillicons.dev/icons?i=stackoverflow,twitter,github,linkedin,devto)](https://skillicons.dev)
 
-### ¿What websites I usually check out?
+### These are my Github Trophies:
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=thekorko)
