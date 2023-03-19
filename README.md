@@ -31,4 +31,4 @@
 [![Knowledge](https://skillicons.dev/icons?i=stackoverflow,twitter,github,linkedin,devto)](https://skillicons.dev)
 
 ### These are my Github Trophies:
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=thekorko)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=thekorko)
